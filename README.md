@@ -1,4 +1,3 @@
-# PathwayAttention
-Predicting cancer survival using gene expression data and vision transformer.
+# SurvConvMixer
+Predicting cancer survival using gene expression data and kegg pathways in cancer.
 
-Using attention map visualization method to interpret prediction results.
